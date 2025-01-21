@@ -430,7 +430,7 @@ body {
 \*-----------------------------------*/
 
 .hero {
-  background-image: url("../images/lw.jpeg");
+  background-image: url("assets/images/lw.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
